@@ -1,0 +1,16 @@
+
+.App{
+     
+}
+
+
+.Container{
+    width: 320px;
+    height: 25px;
+    background-color: black;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
